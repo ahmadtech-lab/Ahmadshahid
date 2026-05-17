@@ -1,194 +1,179 @@
-<h1 align="center">
-Hi 👋, I'm Ahmed Shahid
-</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Machine Learning • Deep Learning • Computer Vision
-</h3>
+<img src="YOUR_BANNER_LINK" width="100%"/>
 
+<br><br>
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ahmadtech-lab&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Building+Real+World+AI+Projects;FastAPI+%7C+TensorFlow+%7C+PyTorch">
+<img src="https://img.shields.io/github/followers/ahmadtech-lab?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/github/stars/ahmadtech-lab?style=for-the-badge"/>
 
----
-
-## 🚀 About Me
-
-🎓 AI & Machine Learning Student passionate about solving real-world problems using Artificial Intelligence.
-
-Currently working on:
-
-✔ Deep Learning  
-✔ Computer Vision  
-✔ Machine Learning Models  
-✔ FastAPI Deployment  
-✔ AI Automation  
-✔ Model Optimization  
-
-I enjoy building AI systems that move beyond notebooks into practical applications.
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ About
 
-### Languages
+```yaml
+Role:
+  AI Engineer
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Specialization:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - AI Deployment
+  - Model Development
 
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-
----
-
-### AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge)
-
-![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge)
+Focus:
+  Building intelligent systems solving real-world problems
+```
 
 ---
 
-### Backend & Deployment
+# 🚀 Tech Stack
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+<div align="center">
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi"/>
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+<br>
 
-![Github](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MachineLearning-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DeepLearning-2979FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ComputerVision-651FFF?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 📂 Featured Projects
+# 🔥 Featured Projects
 
+<table>
+
+<tr>
+
+<td width="50%">
 
 ## 🫁 Chest Xray Pneumonia Detection
 
-Deep learning model using CNN + Transfer Learning to classify chest Xray images.
+CNN + Transfer Learning
 
-Tech:
+TensorFlow • VGG16 • Classification
 
-TensorFlow • CNN • VGG16 • Image Classification
+</td>
 
----
+<td width="50%">
 
-## ♻ Waste Classification Model
+## ♻ Waste Classification
 
-AI model for automatic waste classification:
+Plastic • Metal • Organic • Paper
 
-- Plastic
-- Paper
-- Metal
-- Organic
+Deep Learning + Computer Vision
 
-Tech:
+</td>
 
-Computer Vision • Deep Learning
+</tr>
 
----
+<tr>
+
+<td>
 
 ## 👥 Crowd Counter
 
-Computer vision model for estimating crowd density and people counting.
+Density Estimation
+
+Computer Vision
+
+</td>
+
+<td>
+
+## 🏠 Home Automation
+
+Hardware + AI Integration
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🏠 Home Automation System
+# 📊 GitHub Analytics
 
-Hardware + Software integrated automation project.
+<div align="center">
 
----
-
-# 📈 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadtech-lab&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadtech-lab&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadtech-lab&layout=compact&theme=tokyonight"/>
-
-</p>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=ahmadtech-lab&show_icons=true&theme=tokyonight"/>
 
 
----
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadtech-lab&theme=tokyonight"/>
 
-# 📊 Contribution Graph
+</div>
 
+<br>
 
-[![Ahmed github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadtech-lab&theme=github-compact)](https://github.com/ahmadtech-lab)
+<div align="center">
 
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadtech-lab&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 🎯 Currently Learning
+# 📈 Contribution Graph
 
-
-✅ MLOps
-
-✅ LLMs
-
-✅ FastAPI Deployment
-
-✅ AI Automation
-
-✅ Production AI Systems
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadtech-lab&theme=react-dark)](https://github.com/ahmadtech-lab)
 
 ---
 
-# 🌍 Connect With Me
+# 🏆 Trophies
 
+<div align="center">
 
-<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmadtech-lab&theme=algolia&no-frame=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-shahid-3132b9294">
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 
 <a href="https://github.com/ahmadtech-lab">
 
-<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
+### AI Engineer • Machine Learning • Deep Learning • Computer Vision
 
-![](https://github-profile-trophy.vercel.app/?username=ahmadtech-lab&theme=onedark&no-frame=true)
+### "Building intelligent systems for real-world impact"
 
-
----
-
-# 👀 Profile Views
-
-
-![](https://visitcount.itsvg.in/api?id=ahmadtech-lab&icon=0&color=0)
-
-
----
-
-<h3 align="center">
-
-🚀 Building AI Systems & Turning Ideas into Intelligent Solutions
-
-</h3>
+</div>
